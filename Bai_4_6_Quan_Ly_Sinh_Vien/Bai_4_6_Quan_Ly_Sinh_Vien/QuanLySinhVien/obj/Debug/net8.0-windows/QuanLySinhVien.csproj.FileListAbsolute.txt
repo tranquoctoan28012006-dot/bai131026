@@ -1,0 +1,15 @@
+C:\Users\Min min\Downloads\Bai_4_6_Quan_Ly_Sinh_Vien\Bai_4_6_Quan_Ly_Sinh_Vien\QuanLySinhVien\bin\Debug\net8.0-windows\QuanLySinhVien.exe
+C:\Users\Min min\Downloads\Bai_4_6_Quan_Ly_Sinh_Vien\Bai_4_6_Quan_Ly_Sinh_Vien\QuanLySinhVien\bin\Debug\net8.0-windows\QuanLySinhVien.deps.json
+C:\Users\Min min\Downloads\Bai_4_6_Quan_Ly_Sinh_Vien\Bai_4_6_Quan_Ly_Sinh_Vien\QuanLySinhVien\bin\Debug\net8.0-windows\QuanLySinhVien.runtimeconfig.json
+C:\Users\Min min\Downloads\Bai_4_6_Quan_Ly_Sinh_Vien\Bai_4_6_Quan_Ly_Sinh_Vien\QuanLySinhVien\bin\Debug\net8.0-windows\QuanLySinhVien.dll
+C:\Users\Min min\Downloads\Bai_4_6_Quan_Ly_Sinh_Vien\Bai_4_6_Quan_Ly_Sinh_Vien\QuanLySinhVien\bin\Debug\net8.0-windows\QuanLySinhVien.pdb
+C:\Users\Min min\Downloads\Bai_4_6_Quan_Ly_Sinh_Vien\Bai_4_6_Quan_Ly_Sinh_Vien\QuanLySinhVien\obj\Debug\net8.0-windows\QuanLySinhVien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Min min\Downloads\Bai_4_6_Quan_Ly_Sinh_Vien\Bai_4_6_Quan_Ly_Sinh_Vien\QuanLySinhVien\obj\Debug\net8.0-windows\QuanLySinhVien.AssemblyInfoInputs.cache
+C:\Users\Min min\Downloads\Bai_4_6_Quan_Ly_Sinh_Vien\Bai_4_6_Quan_Ly_Sinh_Vien\QuanLySinhVien\obj\Debug\net8.0-windows\QuanLySinhVien.AssemblyInfo.cs
+C:\Users\Min min\Downloads\Bai_4_6_Quan_Ly_Sinh_Vien\Bai_4_6_Quan_Ly_Sinh_Vien\QuanLySinhVien\obj\Debug\net8.0-windows\QuanLySinhVien.csproj.CoreCompileInputs.cache
+C:\Users\Min min\Downloads\Bai_4_6_Quan_Ly_Sinh_Vien\Bai_4_6_Quan_Ly_Sinh_Vien\QuanLySinhVien\obj\Debug\net8.0-windows\QuanLySinhVien.dll
+C:\Users\Min min\Downloads\Bai_4_6_Quan_Ly_Sinh_Vien\Bai_4_6_Quan_Ly_Sinh_Vien\QuanLySinhVien\obj\Debug\net8.0-windows\refint\QuanLySinhVien.dll
+C:\Users\Min min\Downloads\Bai_4_6_Quan_Ly_Sinh_Vien\Bai_4_6_Quan_Ly_Sinh_Vien\QuanLySinhVien\obj\Debug\net8.0-windows\QuanLySinhVien.pdb
+C:\Users\Min min\Downloads\Bai_4_6_Quan_Ly_Sinh_Vien\Bai_4_6_Quan_Ly_Sinh_Vien\QuanLySinhVien\obj\Debug\net8.0-windows\QuanLySinhVien.genruntimeconfig.cache
+C:\Users\Min min\Downloads\Bai_4_6_Quan_Ly_Sinh_Vien\Bai_4_6_Quan_Ly_Sinh_Vien\QuanLySinhVien\obj\Debug\net8.0-windows\ref\QuanLySinhVien.dll
+C:\Users\Min min\Downloads\Bai_4_6_Quan_Ly_Sinh_Vien\Bai_4_6_Quan_Ly_Sinh_Vien\QuanLySinhVien\obj\Debug\net8.0-windows\QuanLySi.3CF0D20D.Up2Date

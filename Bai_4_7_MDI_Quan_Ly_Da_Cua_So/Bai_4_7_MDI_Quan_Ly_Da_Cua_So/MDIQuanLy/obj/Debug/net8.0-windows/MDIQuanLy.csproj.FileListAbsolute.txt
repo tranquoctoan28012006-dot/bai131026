@@ -1,0 +1,4 @@
+C:\Users\Min min\Downloads\Bai_4_7_MDI_Quan_Ly_Da_Cua_So\Bai_4_7_MDI_Quan_Ly_Da_Cua_So\MDIQuanLy\obj\Debug\net8.0-windows\MDIQuanLy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Min min\Downloads\Bai_4_7_MDI_Quan_Ly_Da_Cua_So\Bai_4_7_MDI_Quan_Ly_Da_Cua_So\MDIQuanLy\obj\Debug\net8.0-windows\MDIQuanLy.AssemblyInfoInputs.cache
+C:\Users\Min min\Downloads\Bai_4_7_MDI_Quan_Ly_Da_Cua_So\Bai_4_7_MDI_Quan_Ly_Da_Cua_So\MDIQuanLy\obj\Debug\net8.0-windows\MDIQuanLy.AssemblyInfo.cs
+C:\Users\Min min\Downloads\Bai_4_7_MDI_Quan_Ly_Da_Cua_So\Bai_4_7_MDI_Quan_Ly_Da_Cua_So\MDIQuanLy\obj\Debug\net8.0-windows\MDIQuanLy.csproj.CoreCompileInputs.cache
